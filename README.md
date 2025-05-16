@@ -32,7 +32,11 @@ besnew 二进制查看工具是一款功能强大的工具，专门用于查看�
 
 # 下载链接
 
-点击[这里](https://gitcode.com/open-source-toolkit/08fca/)跳转。感谢作者的分享
+[主链接](https://gitcode.com/open-source-toolkit/08fca/)
+
+[备用链接](https://download.csdn.net/download/main_init/85013139)
+
+感谢作者及网友的分享
 
 # 说明
 
